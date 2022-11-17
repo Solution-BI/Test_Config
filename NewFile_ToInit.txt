@@ -2,3 +2,4 @@ Hello, i am the PROD init file...
 ...and i am now containing an hotfix to deploy.
 
 This is the beginning of a great dev adventure !
+...and this is something else
