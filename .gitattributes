@@ -1,2 +1,1 @@
-*.csv filter=lfs diff=lfs merge=lfs -text lockable
-NewFile_ToInit.txt filter=lfs diff=lfs merge=lfs -text lockable
+*.dtsx filter=lfs diff=lfs merge=lfs -text lockable
